@@ -15,7 +15,7 @@
 ## Description
 
 <p align="justify">
-  Many companies work with CPFs, but, there's a problem, how do they would know if the CPF the user gives it's real? Thinking about it, the need arose for a cpf validator. To do this, we mixed math and programming, using both of them, we acquire knowledge of how the calculation for CPFs works, how to validate it, and translate it to Java.
+  Many companies work with CPFs, but, there's a problem, how would they know if the CPF the user gives it's real? Thinking about it, the need arose for a cpf validator. To do this, we mixed math and programming, using both of them, we acquire knowledge of how the calculation for CPFs works, how to validate it, and translate it to Java.
 </p>
 
 ## Functionalities
