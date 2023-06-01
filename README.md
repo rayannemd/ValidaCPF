@@ -1,16 +1,16 @@
 <h1 align="center"> CPF Validation </h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Java&message=language&color=blue&style=for-the-badge&logo=Java"/>
+  <img src="https://img.shields.io/static/v1?label=java&message=language&color=blue&style=for-the-badge&logo=Java"/>
 </p>
 
-### Tópicos 
+### Topics
 
 :small_blue_diamond: [Description](#description)
 
 :small_blue_diamond: [Functionalities](#functionalities)
 
-:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação)
+:small_blue_diamond: [Layout](#layout)
 
 ## Description
 
@@ -25,7 +25,7 @@
 :heavy_check_mark: It can be usefull in companies that work with cpf, avoiding the "ghosting"
 
 
-## Layout da Aplicação
+## Layout
 
 The user insert the value (their CPF), and then the code runs, returning if it is valid or not. Examples:
 
